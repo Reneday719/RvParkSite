@@ -1,0 +1,57 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <!--Ashton Day SU200475308 CIS373 Week 5 2/6/2022-->
+    <title>Buffalo RV Park</title>
+    <link rel="stylesheet" href="_links\stylesheet.css">
+</head>
+<body>
+    <p class="banner">
+                
+        <a href="../index.html">Home</a>
+        </p>
+
+        <h1>Buffalo RV Park</h1>
+        <h2>Your home away from home</h2>
+        <img src="..\Images\sign.jpg" alt="Buffalo RV Park Sign" width="250" height="250">
+        
+            
+            
+            <p class="banner">
+            
+                <a href="../Rates">Rates</a>
+                <a href="../Amenities">Amenities</a>
+                <a href="../Directions">Directions</a>
+                <a href="../Gallery">Gallery</a>
+                <a href="../About">About Us</a>
+            
+            </p>
+        <table>
+            <tbody>
+            <tr>
+                <p>Welcome to Buffalo RV Park! <br>We are conveniently located between Buffalo and Oakwood, Texas. <br> We offer Nightly, Weekly and Monthly RV sites. <br> We have both 30 amp and 50 amp hookups. <br> We have both pull-though and back-in sites.
+                </p>
+                <p>We offer several amenities including:
+                    <ul>
+                        <li>On-site, coin-operated laundry</li>
+                        <li>Wifi</li>
+                        <li>Seasonal inground pool</li>
+                        <li>Bathhouse with on-demand tankless waterheater</li>
+                        <li>Pool table, ping pong table, air hockey table</li>
+                        <li>Farm Fresh Chicken or Duck eggs for sale</li>
+                        <li>Seasoned Firewood available for sale</li>
+                    </ul>
+                </p>
+            </tr>
+            
+        </tbody>
+    </table>
+    <p id="footer">
+        
+        <a href="http://bufffalorvpark.com/About">Contact us</a> today to book your reservation.<br>
+        903-322-3854
+    
+</p>
+
+</body>
+</html>
