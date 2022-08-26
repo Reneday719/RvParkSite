@@ -1,0 +1,70 @@
+
+<!DOCTYPE html>
+<html>
+<head>
+    <!--Ashton Day SU200475308 CIS373 Week 10 3/13/2022-->
+    <title>Directions</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link rel="stylesheet" href="_links\stylesheet.css"><meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <script src="Root\_links\javascript"></script>
+
+</head>
+<body>
+    <p class="banner">
+                
+        <a href="..\index.html">Home</a>
+        </p>
+    
+    
+        <p class="banner">
+            
+            <a href="..\Rates.html">Rates</a>
+            <a href="..\Amenities.html">Amenities</a>
+            <a href="..\Directions.html">Directions</a>
+            <a href="..\Gallery.html">Gallery</a>
+            <a href="...\About.html">About Us</a>
+        
+        </p>
+    <h1>9928 E U.S. Highway 79 Oakwood, Texas 75855</h1>
+    <h2>Directions From Palestine, Texas
+    </h2>
+    <script type = "text/javascript">
+        function fun(directionsAlert) {
+           alert ("Please note when using Maps from Palestine the directions are incorrect!!");
+        }
+  </script>     
+
+
+<body>
+     
+    <p>
+            
+  <form>
+     <input type = "button" value = "Click me first I have important infomartion for you!" onclick = "fun(directionsAlert);" />
+  </form> 
+        <ol>
+        <li>Head <strong>West</strong> on US-79.</li>
+        <li>In 12 miles keep <strong>left</strong> at the fork following the signs for Buffalo.</li>
+        <li>In 10 miles Buffalo RV Park will be on the <strong>left</strong> hand side.</li>
+    </ol></p>
+    <h2>Directions from Buffalo Texas/ I-45</h2>
+    <p>
+        <ol>
+            <li>Take exit 178 for US-79 toward Buffalo/Jewett.</li>
+            <li>Turn <strong>right</strong> onto US-79.</li>
+            <li>In 12 miles Buffalo RV Park will be on the <strong>right</strong> hand side.</li>
+        </ol>
+    </p>
+    <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d13599.431405754887!2d-95.91637102812683!3d31.55551551398964!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x8648847188ce2847%3A0xf27434051e0b755a!2sBuffalo%20RV%20Park!5e0!3m2!1sen!2sus!4v1643482427002!5m2!1sen!2sus" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy"></iframe>
+    <br>
+
+    
+    <p id="footer">
+        
+        <a href="http://bufffalorvpark.com/About">Contact us</a> today to book your reservation.<br>
+        <span>903-322-3854</span>
+    
+</p>
+
+</body>
+</html>
