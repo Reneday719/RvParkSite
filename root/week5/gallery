@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html>
+    <table><tbody>
+        <tr>
+            <td>
+            <a href="../index.html">Home</a>
+            </td>
+        </tr>
+        
+        <tr>
+            <td><a href="../Rates">Rates</a></td>
+            <td><a href="../Amenities">Amenities</a></td>
+            <td><a href="../Directions">Directions</a></td>
+            <td><a href="../Gallery">Gallery</a></td>
+            <td><a href="../About">About Us</a></td>
+        </tr>
+        </tbody></table>
+    </table>
+    <img src="..\Images\clubhouse.jpg" alt="Clubhouse" width="250" height="250"> 
+    <img src="..\Images\clubhouseinside.jpg" alt="Clubhouse inside" width="250" height="250"><br>
+    <img src="..\Images\laundry.jpg" alt="laundry" width="250" height="250">
+    <img src="..\Images\bathhouse.jpg" alt="Bathhouse" width="250" height="250"><br>
+    <img src="..\Images\pooltables.jpg" alt="Pool tables" width="250" height="250">
+    <table>
+        <tbody>
+            <tr>
+        <p>
+            <a href="../About/Contact">Contact us</a> today to book your reservation.<br>
+            903-322-3854
+        </p>
+    </tr>
+</tbody>
+</table>
+    </html>
