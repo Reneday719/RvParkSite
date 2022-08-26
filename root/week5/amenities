@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <!--Ashton Day SU200475308 CIS373 Week 5 2/6/2022-->
+        <title>Amenities</title>
+        <link rel="stylesheet" href="_links\stylesheet.css">
+    </head>
+    <body>
+        <p class="banner">
+                
+            <a href="../index.html">Home</a>
+            </p>
+        
+        
+            <p class="banner">
+        
+            <a href="../Rates">Rates</a>
+            <a href="../Amenities">Amenities</a>
+            <a href="../Directions">Directions</a>
+            <a href="../Gallery">Gallery</a>
+            <a href="../About">About Us</a>
+        
+        </p>
+        <h1>Amenities</h1>
+        <ul>
+            <li>Wifi</li>
+            <li>Seasonal Pool</li>
+            <li>Bathhouse with on-demand water heater</li>
+            <li>Seasoned Firewood available $5/bundle</li>
+            <li>Farm Fresh Chicken eggs $4/ doz</li>
+            <li>Local Duck eggs $6/doz</li>
+            <li>On-site coin-operated Laundry</li>
+            <li>Pool table</li>
+            <li>Ping-Pong/ Air Hockey table</li>
+
+        </ul>
+        <p id="footer">
+        
+            <a href="http://bufffalorvpark.com/About">Contact us</a> today to book your reservation.<br>
+            903-322-3854
+        
+    </p>
+    </body>
+</html>
