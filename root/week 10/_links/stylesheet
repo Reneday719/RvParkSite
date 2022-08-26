@@ -1,0 +1,59 @@
+
+body {
+    background-color:lightblue;
+    text-align: center;
+    border: 4px solid darkgrey;
+}
+h1 {
+    background-color: antiquewhite;
+    text-align: center;
+}
+p {
+    text-align: center;
+    background-color: aliceblue;
+}
+table{
+    background-color:aqua;
+    text-align: justify;
+    border: 2px solid darkgray;
+
+}
+form{
+    background-color: cornsilk;
+}
+ul{
+    text-align: left;
+    list-style-position: inside;
+}
+a:link{
+    color:blue;
+}
+a:visited{
+    color:blueviolet;
+}
+a:hover{
+    color:darkmagenta;
+}
+p span{
+    color:red;
+}
+p.banner{
+    background-color: aqua; 
+    border: 2px solid darkgrey; 
+    text-align:right;
+    text-size-adjust: 10%;
+}
+p#footer{
+    border-top: 2px dashed darkslateblue;
+    
+}
+p#footer span{
+    text-size-adjust: 14pt;
+}
+img {
+    float: left;
+    clear: both;
+}
+img:hover{
+    filter:sepia(50%)
+}
