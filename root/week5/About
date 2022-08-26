@@ -1,0 +1,58 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <!--Ashton Day SU200475308 CIS373 Week 5 2/6/2022-->
+        <title>About Us</title>
+        <link rel="stylesheet" href="_links\stylesheet.css">
+    </head>
+    <body>
+        <p class="banner">
+                
+            <a href="../index.html">Home</a>
+            </p>
+        
+        
+            <p class="banner">
+        
+            <a href="../Rates">Rates</a>
+            <a href="../Amenities">Amenities</a>
+            <a href="../Directions">Directions</a>
+            <a href="../Gallery">Gallery</a>
+            <a href="../About">About Us</a>
+        
+        </p>
+    <h1>About Us</h1>
+    <p>Buffalo RV Park is run by the owner David.<br>David bought the park in 2018 and has been steadily updating and improving the park. <br> Including things like updating the electrical, and plumbing.</p>
+    <form action="https://buffalorvpark.com/" method="POST" >
+        <label for="FirstName"> First Name:</label>
+        <input type="text" name="firstname" id="firstname"><br>
+        <label for="LastName"> Last Name:</label>
+        <input type="text" name="lastname" id="lasttname"><br>
+        <label for="Phone">Phone:</label>
+        <input type="text" name="phone" id="phone"><br>
+        <label for="Email">Email:</label>
+        <input type="text" name="email" id="email"><br>
+        <label for="PreferedContact">Prefered Contact Method:</label><br>
+        <label for="phonecont">Phone:</label>
+        <input type="radio" name="phonecont" id="phonecont" value="phonecont">
+        <label for="emailcont">Email:</label>
+        <input type="radio" name="emailcont" id="emailcont" value="emailcont"><br>
+        <label for="Date">Date of arrival:</label>
+        <input type="date" name="date" id="date"><br>
+        <label for="Rental">Are you looking at one of our park model rentals? </label><br>
+        <label for="Yes">Yes</label>
+        <input type="checkbox" name="yes" id="yes" value="yes">
+        <label for="No">No</label>
+        <input type="checkbox" name="no" id="no" value="no"><br>
+        <label for="RentalNum">Rental #?</label>
+        <select name="rental" id="rental">
+            <option value="1">Rental #1</option>
+            <option value="2">Rental #2</option>
+            <option value="3">Rental #3</option>
+        </select><br>
+        <textarea name="comment" id="comment" cols="30" rows="10" placeholder="Comment or Question"></textarea><br>
+        <input type="submit">
+
+    </form>
+    </body>
+</html>
