@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <!--Ashton Day SU200475308 CIS373 Week 10 3/13/2022-->
+        <title>Rates</title>
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+        <link rel="stylesheet" href="_links\stylesheet.css"><meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <script src="Root\_links\javascript"></script>
+        
+    </head>
+    <body>
+        <p class="banner">
+                
+            <a href="../index.html">Home</a>
+            </p>
+        
+        
+            <p class="banner">
+            
+                <a href="..\Rates.html">Rates</a>
+                <a href="..\Amenities.html">Amenities</a>
+                <a href="..\Directions.html">Directions</a>
+                <a href="..\Gallery.html">Gallery</a>
+                <a href="...\About.html">About Us</a>
+            
+            </p>
+        <h1>Rates</h1>
+        <p>Buffalo RV Park offers spots that fullfill all your RV needs! <br> All slots are full hook-up. We have pullthrough and backin spots available.</p>
+        <ul>
+            <li>Nightly 30amp $25</li>
+            <li>Nightly 50amp $25</li>
+            <li>Weekly 30amp $125</li>
+            <li>Weekly 50amp $135</li>
+            <li>Monthly 30amp $350</li>
+            <li>Monthly 50amp $375</li>
+            <li>Rental 1 $500/Month</li>
+            <li>Rental 2 $650/Month</li>
+            <li>Rental 3 $700/Month</li>
+
+        </ul>
+        <p> Please call to check availability of park rentals.</p>
+        <p id="footer">
+        
+            <a href="http://bufffalorvpark.com/About">Contact us</a> today to book your reservation.<br>
+            <span>903-322-3854</span>
+        
+    </p>
+</html>
